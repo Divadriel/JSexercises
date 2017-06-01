@@ -1,3 +1,7 @@
+/**
+ * FUNCTIONS
+ */
+
 function presentation(nom, age){
     console.log(nom+"\n"+String(age));
 }
@@ -383,7 +387,7 @@ function mots(){
         }
     }
 }
-mots();
+//mots();
 
 
 
