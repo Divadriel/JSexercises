@@ -389,6 +389,10 @@ function mots(){
 }
 //mots();
 
+function helloWorld(){
+    console.log("Hello World!");
+}
+
 
 
 
